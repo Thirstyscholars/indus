@@ -1,0 +1,89 @@
+﻿.Heading1
+{
+	font-family:Verdana;
+	font-size:25px;
+	font-weight:600;
+	color:#3E6D3D
+}
+
+.FormHeading
+{
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:600;
+	color:#3E6D3D
+}
+
+.Heading2
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:600;
+	font-style:normal;
+	color:#E99600
+}
+	
+.headContent
+{
+	
+    font-size:12px;
+    font-weight:600;
+    font-family:Verdana;
+    font-style:normal;
+    line-height:150%;
+    color:#3E6D3D;
+    text-align:justify;
+}
+
+.Content
+{
+	
+    font-size:13px;
+    font-family:Verdana;
+    font-weight:400;
+    font-style:normal;
+    line-height:150%;
+    color:#000000;
+    text-align:justify;
+}
+
+A.ContentLinks
+{
+    FONT-SIZE: 13px;
+    font-style:normal;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+
+A.ContentLinks:hover
+{
+    FONT-SIZE: 13px;
+    font-style:normal;
+    CURSOR: hand;
+    COLOR: #3E6D3D;
+    FONT-FAMILY: 'Verdana';
+   
+    TEXT-DECORATION: none;
+}
+
+TABLE.tblSchedule TH
+{
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:400;
+	color:#E99600;
+	text-align:left;
+}
+
+TABLE.tblSchedule TD
+{
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:400;
+	color:#000000;
+	text-align:left;
+}
+	

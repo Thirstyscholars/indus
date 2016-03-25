@@ -1,0 +1,398 @@
+﻿A.MarqeeText
+{
+    FONT-WEIGHT: 500;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+A.MarqeeText:visited
+{
+    FONT-WEIGHT: 500;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+
+}
+A.MarqeeText:hover
+{
+    FONT-WEIGHT: 500;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;  
+    
+}
+
+
+A.TopMenus
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+A.TopMenus:visited
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+
+}
+A.TopMenus:hover
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;  
+    
+}
+
+
+A.TopMenus_White
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+A.TopMenus_White:visited
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+
+}
+A.TopMenus_White:hover
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;  
+    
+}
+
+A.BreadCrumb
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 13px;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: 'Verdana';
+    letter-spacing:1px;
+    //MARGIN: -2pt 0.5em 3pt 0em;
+    TEXT-DECORATION: none
+}
+A.BreadCrumb:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 13px;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+      letter-spacing:1px;
+
+}
+A.BreadCrumb:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 13px;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+      letter-spacing:1px;
+    
+}
+
+H3.Head 
+{
+    font-weight:400;
+    color:#2D4C2F;
+    font-family:Verdana;
+    font-size :25px;
+}
+
+A.LeftMenuLinks
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+A.LeftMenuLinks:visited
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+
+    TEXT-DECORATION: none;
+
+}
+A.LeftMenuLinks:hover
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+   
+    TEXT-DECORATION: none;
+
+}
+
+
+.mainContent
+{
+    font-size:12px;
+    font-family:Verdana;
+    line-height:150%;
+    color:#3E6D3D;
+    text-align:justify;
+}
+
+A.BottomMenus
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+A.BottomMenus:visited
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: #464335;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+
+}
+A.BottomMenus:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+}
+
+TABLE.TBLGridView
+{
+	border: solid 1px #2D4C2F;
+}
+
+TABLE.TBLGridView TH
+{
+	font-weight: 900;
+	font-size: 12px;
+	color: black;
+	text-align:left;
+	font-family: verdana;
+	text-align:left;
+}
+
+TABLE.TBLGridView TD
+{
+	font-size: 12px;
+	color: black;
+	text-align:left;
+	font-family: Verdana;
+}
+
+.formbg
+{
+	color: #ffffff;
+	background-color: #0CA122;
+	font-size: 12px;
+	font-family: Verdana;
+	font-weight:600;
+	border: #2D4C2F 1px solid;
+	padding:1px;
+}
+
+.inputbx
+{
+	color: #000000;
+	font-size: 12px;
+	font-family: Verdana;
+	font-weight:300;
+	border: #2D4C2F 1px solid;
+	padding:1px;
+}
+
+.lblError
+{
+    color:White;
+    font-weight:900;
+    font-family:Verdana;
+    font-size:12px;
+    padding:1px;
+	background-color:red;
+	color:white;
+	font-weight:bold;
+    text-align:center;
+}
+
+A.FileLinks
+{
+    FONT-SIZE: 11px;
+    font-weight:600;
+    CURSOR: hand;
+    COLOR: #000000;
+    FONT-FAMILY: 'Verdana';
+    
+    TEXT-DECORATION: none
+}
+
+A.FileLinks:hover
+{
+    FONT-SIZE: 11px;
+    font-weight:600;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';   
+    TEXT-DECORATION: none;
+}
+
+A.Archives
+{
+    FONT-SIZE: 12px;
+    font-weight:600;
+    CURSOR: hand;
+    COLOR: #000000;
+    FONT-FAMILY: 'Verdana';    
+    TEXT-DECORATION: none
+}
+
+A.Archives:hover
+{
+    FONT-SIZE: 12px;
+    font-weight:600;
+    CURSOR: hand;
+    COLOR: #E99600;
+    FONT-FAMILY: 'Verdana';   
+    TEXT-DECORATION: none;
+}
+
+
+A.Heading
+{
+    font-size:12px;
+    font-family:Verdana;    
+    color:#FFFFFF;
+    font-weight:500;
+    TEXT-DECORATION: none;
+}
+A.Heading:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #FF9900;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+}
+
+A.Bottom_Heading
+{
+    font-size:12px;
+    font-family:Verdana;    
+    color:#000000;
+    font-weight:500;
+    TEXT-DECORATION: none;
+}
+A.Bottom_Heading:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #FF9900;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+}
+A.Bottom_Heading1
+{
+    font-size:12px;
+    font-family:Verdana;    
+    color:#000000;
+    font-weight:500;
+    TEXT-DECORATION: underline;
+}
+A.Bottom_Heading1:hover
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: #FF9900;
+    FONT-FAMILY: 'Verdana';
+    TEXT-DECORATION: none;
+}
+
+.Caption
+{
+	font-size:15px;
+    font-family:Arial;    
+    color:#FFFFFF;
+    font-weight:600;    
+}
+.Text
+{
+	font-size:12px;
+    font-family:Verdana;    
+    color:#333333;
+    font-weight:500; 
+}
+.Text_News
+{
+	font-size:11px;
+    font-family:Verdana;    
+    color:#000000;
+    font-weight:500; 
+}
+.Text_White
+{
+	font-size:12px;
+    font-family:Verdana;    
+    color:#FFFFFF;
+    font-weight:500; 
+}
+.Heading
+{
+    font-size:16px;
+    font-family:Verdana;    
+    color:#006600;
+    font-weight:600;
+    TEXT-DECORATION: none;
+}
